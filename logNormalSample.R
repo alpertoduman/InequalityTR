@@ -6,7 +6,7 @@
 # Load necessary library
 library(ineq)
 
-# Number of households in the population
+# Number of households in the population UPDATED
 population_size <- 26000000
 
 # Percentage of households with zero wealth
